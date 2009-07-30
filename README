@@ -1,7 +1,6 @@
-Ruby Debug Bundle by Eric Fer
+Ruby Debug Bundle by Eric Fer and Lucas Fais
 
 This bundle provides a few shortcuts for day-by-day core ruby debug.
-The 'puts' snippet were contributed by Lucas Fais
 It's just getting started but it's a pleasure to share even this little with ruby community.
 
 To install it:
