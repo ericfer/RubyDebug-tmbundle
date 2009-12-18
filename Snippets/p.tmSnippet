@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>puts ${1:"\n\n ***** $2${3:: #{$2${4:.inspect}\}}\n\n"}</string>
+	<string>puts ${1:"\n\n\033[0;33m=&gt; $2${3::\033[0m #{$2${4:.inspect}\}}\n\n"}</string>
 	<key>name</key>
 	<string>puts</string>
 	<key>scope</key>
