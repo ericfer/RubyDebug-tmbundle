@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>require "rubygems"
+require "ruby-debug"
+</string>
+	<key>name</key>
+	<string>require</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>rd</string>
+	<key>uuid</key>
+	<string>3DC8A92C-283A-4AEB-A01F-DFFC0C084EF1</string>
+</dict>
+</plist>
